@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import org.testng.Assert;
 
 
-class CashBackServiceTest {
+public class CashBackServiceTest {
     CashBackService service = new CashBackService();
 
     @Test
